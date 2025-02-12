@@ -1,5 +1,5 @@
 // Service worker code
-const CACHE_NAME = 'shade-music-cache-v2';
+const CACHE_NAME = 'shade-music-cache-v3';
 const URLS_TO_CACHE = [
   '/',
   '/index.html',
